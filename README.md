@@ -2,4 +2,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skylee273&layout=compact&theme=tokyonight)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skylee273@koreatech.ac.kr)](https://solved.ac/skylee273@koreatech.ac.kr/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skylee273)](https://solved.ac/skylee273/)
